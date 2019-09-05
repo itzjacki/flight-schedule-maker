@@ -1,0 +1,174 @@
+WF100: Oslo Gardermoen (OSL) to Stavanger Sola (SVG), 340 km, 44 min. Aircraft: DH4D
+WF101: Oslo Gardermoen (OSL) to Bergen Flesland (BGO), 323 km, 42 min. Aircraft: DH4D
+WF102: Oslo Gardermoen (OSL) to Trondheim Værnes (TRD), 362 km, 46 min. Aircraft: DH4D
+WF103: Oslo Gardermoen (OSL) to Kristiansand Kjevik (KRS), 280 km, 38 min. Aircraft: DH4D
+WF104: Oslo Gardermoen (OSL) to Haugesund Karmøy (HAU), 342 km, 44 min. Aircraft: DH4D
+WF105: Oslo Gardermoen (OSL) to Ålesund Vigra (AES), 372 km, 47 min. Aircraft: DH4D
+WF106: Oslo Gardermoen (OSL) to Molde Årø (MOL), 347 km, 45 min. Aircraft: DH4D
+WF107: Oslo Gardermoen (OSL) to Sandefjord Torp (TRF), 122 km, 23 min. Aircraft: DH4D
+WF108: Oslo Gardermoen (OSL) to Kristiansund Kvernberget (KSU), 366 km, 46 min. Aircraft: DH4D
+WF109: Stavanger Sola (SVG) to Oslo Gardermoen (OSL), 340 km, 44 min. Aircraft: DH4D
+WF110: Stavanger Sola (SVG) to Bergen Flesland (BGO), 159 km, 27 min. Aircraft: DH4D
+WF111: Stavanger Sola (SVG) to Trondheim Værnes (TRD), 582 km, 67 min. Aircraft: DH4D
+WF112: Stavanger Sola (SVG) to Kristiansand Kjevik (KRS), 160 km, 27 min. Aircraft: DH4D
+WF113: Stavanger Sola (SVG) to Haugesund Karmøy (HAU), 57 km, 17 min. Aircraft: DH4D
+WF114: Stavanger Sola (SVG) to Ålesund Vigra (AES), 410 km, 51 min. Aircraft: DH4D
+WF115: Stavanger Sola (SVG) to Molde Årø (MOL), 439 km, 53 min. Aircraft: DH4D
+WF116: Stavanger Sola (SVG) to Sandefjord Torp (TRF), 266 km, 37 min. Aircraft: DH4D
+WF117: Stavanger Sola (SVG) to Kristiansund Kvernberget (KSU), 485 km, 58 min. Aircraft: DH4D
+WF118: Stavanger Sola (SVG) to Stord Sørstokken (SRP), 103 km, 22 min. Aircraft: DH4D
+WF119: Bergen Flesland (BGO) to Oslo Gardermoen (OSL), 323 km, 42 min. Aircraft: DH4D
+WF120: Bergen Flesland (BGO) to Stavanger Sola (SVG), 159 km, 27 min. Aircraft: DH4D
+WF121: Bergen Flesland (BGO) to Trondheim Værnes (TRD), 461 km, 55 min. Aircraft: DH4D
+WF122: Bergen Flesland (BGO) to Kristiansand Kjevik (KRS), 283 km, 39 min. Aircraft: DH4D
+WF123: Bergen Flesland (BGO) to Haugesund Karmøy (HAU), 105 km, 22 min. Aircraft: DH4D
+WF124: Bergen Flesland (BGO) to Ålesund Vigra (AES), 256 km, 36 min. Aircraft: DH4D
+WF125: Bergen Flesland (BGO) to Molde Årø (MOL), 293 km, 40 min. Aircraft: DH4D
+WF126: Bergen Flesland (BGO) to Sandefjord Torp (TRF), 307 km, 41 min. Aircraft: DH4D
+WF127: Bergen Flesland (BGO) to Kristiansund Kvernberget (KSU), 342 km, 44 min. Aircraft: DH4D
+WF128: Bergen Flesland (BGO) to Stord Sørstokken (SRP), 56 km, 17 min. Aircraft: DH4D
+WF129: Trondheim Værnes (TRD) to Oslo Gardermoen (OSL), 362 km, 46 min. Aircraft: DH4D
+WF130: Trondheim Værnes (TRD) to Stavanger Sola (SVG), 582 km, 67 min. Aircraft: DH4D
+WF131: Trondheim Værnes (TRD) to Bergen Flesland (BGO), 461 km, 55 min. Aircraft: DH4D
+WF132: Trondheim Værnes (TRD) to Bodø (BOO), 452 km, 55 min. Aircraft: DH4D
+WF133: Trondheim Værnes (TRD) to Tromsø Langnes (TOS), 775 km, 85 min. Aircraft: DH4D
+WF134: Trondheim Værnes (TRD) to Kristiansand Kjevik (KRS), 603 km, 69 min. Aircraft: DH4D
+WF135: Trondheim Værnes (TRD) to Haugesund Karmøy (HAU), 548 km, 64 min. Aircraft: DH4D
+WF136: Trondheim Værnes (TRD) to Ålesund Vigra (AES), 262 km, 37 min. Aircraft: DH4D
+WF137: Trondheim Værnes (TRD) to Molde Årø (MOL), 200 km, 31 min. Aircraft: DH4D
+WF138: Trondheim Værnes (TRD) to Sandefjord Torp (TRF), 476 km, 57 min. Aircraft: DH4D
+WF139: Trondheim Værnes (TRD) to Kristiansund Kvernberget (KSU), 159 km, 27 min. Aircraft: DH4D
+WF140: Trondheim Værnes (TRD) to Harstad/Narvik Evenes (EVE), 616 km, 70 min. Aircraft: DH4D
+WF141: Trondheim Værnes (TRD) to Bardufoss (BDU), 708 km, 79 min. Aircraft: DH4D
+WF142: Trondheim Værnes (TRD) to Røros (RRS), 100 km, 21 min. Aircraft: DH4D
+WF143: Trondheim Værnes (TRD) to Ørland (OLA), 70 km, 19 min. Aircraft: DH4D
+WF144: Bodø (BOO) to Trondheim Værnes (TRD), 452 km, 55 min. Aircraft: DH4D
+WF145: Bodø (BOO) to Tromsø Langnes (TOS), 326 km, 43 min. Aircraft: DH4D
+WF146: Bodø (BOO) to Ålesund Vigra (AES), 650 km, 73 min. Aircraft: DH4D
+WF147: Bodø (BOO) to Molde Årø (MOL), 602 km, 69 min. Aircraft: DH4D
+WF148: Bodø (BOO) to Kristiansund Kvernberget (KSU), 553 km, 64 min. Aircraft: DH4D
+WF149: Bodø (BOO) to Harstad/Narvik Evenes (EVE), 166 km, 28 min. Aircraft: DH4D
+WF150: Bodø (BOO) to Bardufoss (BDU), 263 km, 37 min. Aircraft: DH4D
+WF151: Bodø (BOO) to Alta (ALF), 472 km, 56 min. Aircraft: DH4D
+WF152: Bodø (BOO) to Kirkenes Høybuktmoen (KKN), 686 km, 76 min. Aircraft: DH4D
+WF153: Bodø (BOO) to Andenes Andøya (ANX), 236 km, 34 min. Aircraft: DH4D
+WF154: Tromsø Langnes (TOS) to Trondheim Værnes (TRD), 775 km, 85 min. Aircraft: DH4D
+WF155: Tromsø Langnes (TOS) to Bodø (BOO), 326 km, 43 min. Aircraft: DH4D
+WF156: Tromsø Langnes (TOS) to Harstad/Narvik Evenes (EVE), 159 km, 27 min. Aircraft: DH4D
+WF157: Tromsø Langnes (TOS) to Bardufoss (BDU), 71 km, 19 min. Aircraft: DH4D
+WF158: Tromsø Langnes (TOS) to Alta (ALF), 173 km, 28 min. Aircraft: DH4D
+WF159: Tromsø Langnes (TOS) to Lakselv Banak (LKL), 235 km, 34 min. Aircraft: DH4D
+WF160: Tromsø Langnes (TOS) to Kirkenes Høybuktmoen (KKN), 422 km, 52 min. Aircraft: DH4D
+WF161: Tromsø Langnes (TOS) to Andenes Andøya (ANX), 116 km, 23 min. Aircraft: DH4D
+WF162: Kristiansand Kjevik (KRS) to Oslo Gardermoen (OSL), 280 km, 38 min. Aircraft: DH4D
+WF163: Kristiansand Kjevik (KRS) to Stavanger Sola (SVG), 160 km, 27 min. Aircraft: DH4D
+WF164: Kristiansand Kjevik (KRS) to Bergen Flesland (BGO), 283 km, 39 min. Aircraft: DH4D
+WF165: Kristiansand Kjevik (KRS) to Trondheim Værnes (TRD), 603 km, 69 min. Aircraft: DH4D
+WF166: Kristiansand Kjevik (KRS) to Haugesund Karmøy (HAU), 208 km, 32 min. Aircraft: DH4D
+WF167: Kristiansand Kjevik (KRS) to Ålesund Vigra (AES), 496 km, 59 min. Aircraft: DH4D
+WF168: Kristiansand Kjevik (KRS) to Molde Årø (MOL), 506 km, 60 min. Aircraft: DH4D
+WF169: Kristiansand Kjevik (KRS) to Sandefjord Torp (TRF), 166 km, 28 min. Aircraft: DH4D
+WF170: Kristiansand Kjevik (KRS) to Kristiansund Kvernberget (KSU), 545 km, 63 min. Aircraft: DH4D
+WF171: Kristiansand Kjevik (KRS) to Stord Sørstokken (SRP), 236 km, 34 min. Aircraft: DH4D
+WF172: Haugesund Karmøy (HAU) to Oslo Gardermoen (OSL), 342 km, 44 min. Aircraft: DH4D
+WF173: Haugesund Karmøy (HAU) to Stavanger Sola (SVG), 57 km, 17 min. Aircraft: DH4D
+WF174: Haugesund Karmøy (HAU) to Bergen Flesland (BGO), 105 km, 22 min. Aircraft: DH4D
+WF175: Haugesund Karmøy (HAU) to Trondheim Værnes (TRD), 548 km, 64 min. Aircraft: DH4D
+WF176: Haugesund Karmøy (HAU) to Kristiansand Kjevik (KRS), 208 km, 32 min. Aircraft: DH4D
+WF177: Haugesund Karmøy (HAU) to Ålesund Vigra (AES), 361 km, 46 min. Aircraft: DH4D
+WF178: Haugesund Karmøy (HAU) to Molde Årø (MOL), 393 km, 49 min. Aircraft: DH4D
+WF179: Haugesund Karmøy (HAU) to Sandefjord Torp (TRF), 287 km, 39 min. Aircraft: DH4D
+WF180: Haugesund Karmøy (HAU) to Kristiansund Kvernberget (KSU), 441 km, 53 min. Aircraft: DH4D
+WF181: Haugesund Karmøy (HAU) to Stord Sørstokken (SRP), 50 km, 17 min. Aircraft: DH4D
+WF182: Ålesund Vigra (AES) to Oslo Gardermoen (OSL), 372 km, 47 min. Aircraft: DH4D
+WF183: Ålesund Vigra (AES) to Stavanger Sola (SVG), 410 km, 51 min. Aircraft: DH4D
+WF184: Ålesund Vigra (AES) to Bergen Flesland (BGO), 256 km, 36 min. Aircraft: DH4D
+WF185: Ålesund Vigra (AES) to Trondheim Værnes (TRD), 262 km, 37 min. Aircraft: DH4D
+WF186: Ålesund Vigra (AES) to Bodø (BOO), 650 km, 73 min. Aircraft: DH4D
+WF187: Ålesund Vigra (AES) to Kristiansand Kjevik (KRS), 496 km, 59 min. Aircraft: DH4D
+WF188: Ålesund Vigra (AES) to Haugesund Karmøy (HAU), 361 km, 46 min. Aircraft: DH4D
+WF189: Ålesund Vigra (AES) to Molde Årø (MOL), 61 km, 18 min. Aircraft: DH4D
+WF190: Ålesund Vigra (AES) to Sandefjord Torp (TRF), 436 km, 53 min. Aircraft: DH4D
+WF191: Ålesund Vigra (AES) to Kristiansund Kvernberget (KSU), 105 km, 22 min. Aircraft: DH4D
+WF192: Ålesund Vigra (AES) to Ørland (OLA), 215 km, 32 min. Aircraft: DH4D
+WF193: Molde Årø (MOL) to Oslo Gardermoen (OSL), 347 km, 45 min. Aircraft: DH4D
+WF194: Molde Årø (MOL) to Stavanger Sola (SVG), 439 km, 53 min. Aircraft: DH4D
+WF195: Molde Årø (MOL) to Bergen Flesland (BGO), 293 km, 40 min. Aircraft: DH4D
+WF196: Molde Årø (MOL) to Trondheim Værnes (TRD), 200 km, 31 min. Aircraft: DH4D
+WF197: Molde Årø (MOL) to Bodø (BOO), 602 km, 69 min. Aircraft: DH4D
+WF198: Molde Årø (MOL) to Kristiansand Kjevik (KRS), 506 km, 60 min. Aircraft: DH4D
+WF199: Molde Årø (MOL) to Haugesund Karmøy (HAU), 393 km, 49 min. Aircraft: DH4D
+WF200: Molde Årø (MOL) to Ålesund Vigra (AES), 61 km, 18 min. Aircraft: DH4D
+WF201: Molde Årø (MOL) to Sandefjord Torp (TRF), 427 km, 52 min. Aircraft: DH4D
+WF202: Molde Årø (MOL) to Kristiansund Kvernberget (KSU), 49 km, 17 min. Aircraft: DH4D
+WF203: Molde Årø (MOL) to Harstad/Narvik Evenes (EVE), 769 km, 84 min. Aircraft: DH4D
+WF204: Molde Årø (MOL) to Røros (RRS), 209 km, 32 min. Aircraft: DH4D
+WF205: Molde Årø (MOL) to Ørland (OLA), 157 km, 27 min. Aircraft: DH4D
+WF206: Sandefjord Torp (TRF) to Oslo Gardermoen (OSL), 122 km, 23 min. Aircraft: DH4D
+WF207: Sandefjord Torp (TRF) to Stavanger Sola (SVG), 266 km, 37 min. Aircraft: DH4D
+WF208: Sandefjord Torp (TRF) to Bergen Flesland (BGO), 307 km, 41 min. Aircraft: DH4D
+WF209: Sandefjord Torp (TRF) to Trondheim Værnes (TRD), 476 km, 57 min. Aircraft: DH4D
+WF210: Sandefjord Torp (TRF) to Kristiansand Kjevik (KRS), 166 km, 28 min. Aircraft: DH4D
+WF211: Sandefjord Torp (TRF) to Haugesund Karmøy (HAU), 287 km, 39 min. Aircraft: DH4D
+WF212: Sandefjord Torp (TRF) to Ålesund Vigra (AES), 436 km, 53 min. Aircraft: DH4D
+WF213: Sandefjord Torp (TRF) to Molde Årø (MOL), 427 km, 52 min. Aircraft: DH4D
+WF214: Sandefjord Torp (TRF) to Kristiansund Kvernberget (KSU), 455 km, 55 min. Aircraft: DH4D
+WF215: Kristiansund Kvernberget (KSU) to Oslo Gardermoen (OSL), 366 km, 46 min. Aircraft: DH4D
+WF216: Kristiansund Kvernberget (KSU) to Stavanger Sola (SVG), 485 km, 58 min. Aircraft: DH4D
+WF217: Kristiansund Kvernberget (KSU) to Bergen Flesland (BGO), 342 km, 44 min. Aircraft: DH4D
+WF218: Kristiansund Kvernberget (KSU) to Trondheim Værnes (TRD), 159 km, 27 min. Aircraft: DH4D
+WF219: Kristiansund Kvernberget (KSU) to Bodø (BOO), 553 km, 64 min. Aircraft: DH4D
+WF220: Kristiansund Kvernberget (KSU) to Kristiansand Kjevik (KRS), 545 km, 63 min. Aircraft: DH4D
+WF221: Kristiansund Kvernberget (KSU) to Haugesund Karmøy (HAU), 441 km, 53 min. Aircraft: DH4D
+WF222: Kristiansund Kvernberget (KSU) to Ålesund Vigra (AES), 105 km, 22 min. Aircraft: DH4D
+WF223: Kristiansund Kvernberget (KSU) to Molde Årø (MOL), 49 km, 17 min. Aircraft: DH4D
+WF224: Kristiansund Kvernberget (KSU) to Sandefjord Torp (TRF), 455 km, 55 min. Aircraft: DH4D
+WF225: Kristiansund Kvernberget (KSU) to Harstad/Narvik Evenes (EVE), 719 km, 80 min. Aircraft: DH4D
+WF226: Kristiansund Kvernberget (KSU) to Røros (RRS), 188 km, 30 min. Aircraft: DH4D
+WF227: Kristiansund Kvernberget (KSU) to Ørland (OLA), 109 km, 22 min. Aircraft: DH4D
+WF228: Harstad/Narvik Evenes (EVE) to Trondheim Værnes (TRD), 616 km, 70 min. Aircraft: DH4D
+WF229: Harstad/Narvik Evenes (EVE) to Bodø (BOO), 166 km, 28 min. Aircraft: DH4D
+WF230: Harstad/Narvik Evenes (EVE) to Tromsø Langnes (TOS), 159 km, 27 min. Aircraft: DH4D
+WF231: Harstad/Narvik Evenes (EVE) to Molde Årø (MOL), 769 km, 84 min. Aircraft: DH4D
+WF232: Harstad/Narvik Evenes (EVE) to Kristiansund Kvernberget (KSU), 719 km, 80 min. Aircraft: DH4D
+WF233: Harstad/Narvik Evenes (EVE) to Bardufoss (BDU), 97 km, 21 min. Aircraft: DH4D
+WF234: Harstad/Narvik Evenes (EVE) to Alta (ALF), 311 km, 41 min. Aircraft: DH4D
+WF235: Harstad/Narvik Evenes (EVE) to Kirkenes Høybuktmoen (KKN), 540 km, 63 min. Aircraft: DH4D
+WF236: Harstad/Narvik Evenes (EVE) to Andenes Andøya (ANX), 91 km, 21 min. Aircraft: DH4D
+WF237: Bardufoss (BDU) to Trondheim Værnes (TRD), 708 km, 79 min. Aircraft: DH4D
+WF238: Bardufoss (BDU) to Bodø (BOO), 263 km, 37 min. Aircraft: DH4D
+WF239: Bardufoss (BDU) to Tromsø Langnes (TOS), 71 km, 19 min. Aircraft: DH4D
+WF240: Bardufoss (BDU) to Harstad/Narvik Evenes (EVE), 97 km, 21 min. Aircraft: DH4D
+WF241: Bardufoss (BDU) to Alta (ALF), 213 km, 32 min. Aircraft: DH4D
+WF242: Bardufoss (BDU) to Kirkenes Høybuktmoen (KKN), 449 km, 54 min. Aircraft: DH4D
+WF243: Bardufoss (BDU) to Andenes Andøya (ANX), 98 km, 21 min. Aircraft: DH4D
+WF244: Alta (ALF) to Bodø (BOO), 472 km, 56 min. Aircraft: DH4D
+WF245: Alta (ALF) to Tromsø Langnes (TOS), 173 km, 28 min. Aircraft: DH4D
+WF246: Alta (ALF) to Harstad/Narvik Evenes (EVE), 311 km, 41 min. Aircraft: DH4D
+WF247: Alta (ALF) to Bardufoss (BDU), 213 km, 32 min. Aircraft: DH4D
+WF248: Alta (ALF) to Lakselv Banak (LKL), 61 km, 18 min. Aircraft: DH4D
+WF249: Alta (ALF) to Kirkenes Høybuktmoen (KKN), 251 km, 36 min. Aircraft: DH4D
+WF250: Lakselv Banak (LKL) to Tromsø Langnes (TOS), 235 km, 34 min. Aircraft: DH4D
+WF251: Lakselv Banak (LKL) to Alta (ALF), 61 km, 18 min. Aircraft: DH4D
+WF252: Lakselv Banak (LKL) to Kirkenes Høybuktmoen (KKN), 191 km, 30 min. Aircraft: DH4D
+WF253: Kirkenes Høybuktmoen (KKN) to Bodø (BOO), 686 km, 76 min. Aircraft: DH4D
+WF254: Kirkenes Høybuktmoen (KKN) to Tromsø Langnes (TOS), 422 km, 52 min. Aircraft: DH4D
+WF255: Kirkenes Høybuktmoen (KKN) to Harstad/Narvik Evenes (EVE), 540 km, 63 min. Aircraft: DH4D
+WF256: Kirkenes Høybuktmoen (KKN) to Bardufoss (BDU), 449 km, 54 min. Aircraft: DH4D
+WF257: Kirkenes Høybuktmoen (KKN) to Alta (ALF), 251 km, 36 min. Aircraft: DH4D
+WF258: Kirkenes Høybuktmoen (KKN) to Lakselv Banak (LKL), 191 km, 30 min. Aircraft: DH4D
+WF259: Røros (RRS) to Trondheim Værnes (TRD), 100 km, 21 min. Aircraft: DH4D
+WF260: Røros (RRS) to Molde Årø (MOL), 209 km, 32 min. Aircraft: DH4D
+WF261: Røros (RRS) to Kristiansund Kvernberget (KSU), 188 km, 30 min. Aircraft: DH4D
+WF262: Andenes Andøya (ANX) to Bodø (BOO), 236 km, 34 min. Aircraft: DH4D
+WF263: Andenes Andøya (ANX) to Tromsø Langnes (TOS), 116 km, 23 min. Aircraft: DH4D
+WF264: Andenes Andøya (ANX) to Harstad/Narvik Evenes (EVE), 91 km, 21 min. Aircraft: DH4D
+WF265: Andenes Andøya (ANX) to Bardufoss (BDU), 98 km, 21 min. Aircraft: DH4D
+WF266: Stord Sørstokken (SRP) to Stavanger Sola (SVG), 103 km, 22 min. Aircraft: DH4D
+WF267: Stord Sørstokken (SRP) to Bergen Flesland (BGO), 56 km, 17 min. Aircraft: DH4D
+WF268: Stord Sørstokken (SRP) to Kristiansand Kjevik (KRS), 236 km, 34 min. Aircraft: DH4D
+WF269: Stord Sørstokken (SRP) to Haugesund Karmøy (HAU), 50 km, 17 min. Aircraft: DH4D
+WF270: Ørland (OLA) to Trondheim Værnes (TRD), 70 km, 19 min. Aircraft: DH4D
+WF271: Ørland (OLA) to Ålesund Vigra (AES), 215 km, 32 min. Aircraft: DH4D
+WF272: Ørland (OLA) to Molde Årø (MOL), 157 km, 27 min. Aircraft: DH4D
+WF273: Ørland (OLA) to Kristiansund Kvernberget (KSU), 109 km, 22 min. Aircraft: DH4D
